@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gprad
+ *
+ */
+module firstProjectForGithub {
+}
